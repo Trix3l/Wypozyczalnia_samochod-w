@@ -1,5 +1,5 @@
 # Wypozyczalnia_samochod-w
-Praca wykonana przez:
-Kamil Bieńkowski
-Filip Zapart
-Patryk Szymczak
+<b>Praca wykonana przez:</b>
+</br>Kamil Bieńkowski
+</br>Filip Zapart
+</br>Patryk Szymczak
